@@ -1,0 +1,16 @@
+{
+  "name": "udemy-js-api",
+  "version": "1.0.0",
+  "description": "Node API tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charlotte McCarthy",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.5.2",
+    "restify": "^4.1.1",
+    "restify-validator": "^0.3.1"
+  }
+}
